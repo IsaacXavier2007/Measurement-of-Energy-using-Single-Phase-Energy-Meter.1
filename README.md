@@ -50,10 +50,6 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 <img width="1036" height="320" alt="image" src="https://github.com/user-attachments/assets/9e802a28-f8e2-4b81-8253-f26925977ff6" />
 
-
-
-
-
 ## Result
 Thus, the measurement of energy using single phase energy meter will be verified successfully.
 
