@@ -44,14 +44,19 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 ## Circuit Connection Diagram with Tabulation 
 
-<img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
+<img width="1040" height="827" alt="image" src="https://github.com/user-attachments/assets/2721abb5-f5e8-40e3-8f4c-eb77c058a8d5" />
+
 
 ## Output Waveform
+
+<img width="1036" height="320" alt="image" src="https://github.com/user-attachments/assets/869d5135-42e6-43ba-8d5d-a201f1cbc40d" />
+
 
 
 
 
 ## Result
+Thus, measurement of energy using single phase energy meter is verified successfully.
 
 
 
